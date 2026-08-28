@@ -1,2 +1,14 @@
-# C-Just-a-small-fan-made-programming-language-I-built-in-x64-Assembly-and-Python-
-C##++ v0.3: A fan-made only man experimental programming language written from scratch in 64-bit Assembly (MASM) &amp; Python. Features a standalone REPL, custom syntax, and runs portably across Windows 7, 10, and 11
+# C##++ (v0.3 - Proof of Concept)
+
+C##++ is a custom, experimental programming language written directly in 64-bit x64 MASM (Assembly) for Windows.
+
+## Features (v0.3)
+- 🚀 **100% Native 64-Bit Executable** (No .NET required, no external DLL dependencies)
+- 💻 **Custom REPL Console** (`C##++ > `)
+- 📝 **Variable Assignment:** `mocal x = 10`
+- 🖨️ **Text Output:** `print(...)`
+- 📦 **Portable:** Runs natively on Windows 7, 10, and 11
+
+## Build
+Compiled with Visual Studio 2022 (MASM / x64) using static linking (`/MT`). 
+and the Varibles and so on are inspired by Lua
