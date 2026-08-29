@@ -16,3 +16,6 @@ and the Varibles and so on are inspired by Lua
 ## Prerequisites / Requirements
 - **Python:** 3.10+ (required for running the parser / REPL script)
 -(for the source code to view) **Visual Studio 2022** with MASM (x64) installed
+
+And Daily Updates!
+
